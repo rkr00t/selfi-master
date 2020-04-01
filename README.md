@@ -1,7 +1,7 @@
 # selfi-master
 Access webcam using link
 
-git clone https://github.com/rkr00t/selfi-master
+git clone https://github.com/rkr00t/selfi-master.git
 
 cd selfi-master
 
